@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "employee_name": "Muhammad Butt",
+      "employee_salary": "30000",
+      "employee_age": "30"
+    },
+    {
+      "id": "4",
+      "employee_name": "Muhammad Uzair",
+      "employee_salary": "45000",
+      "employee_age": "21"
+    }
+  ]
+}
